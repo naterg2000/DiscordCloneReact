@@ -1,0 +1,3 @@
+Progress on react router dom tut - https://reactrouter.com/en/main/start/tutorial
+
+Left off at mutation discussion
